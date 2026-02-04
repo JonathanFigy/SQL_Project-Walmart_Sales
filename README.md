@@ -53,7 +53,7 @@ Sales analysis by gender revealed that female customers predominantly purchased 
 Increase inventory allocation, shelf visibility, and promotional focus for Fashion Accessories, as it leads in sales volume, and Food and Beverages, which generates the highest revenue. These categories are clear drivers of both traffic and profitability.
 
 ### Re-evaluate Health & Beauty Strategy
-Given that Health & Beauty records both the lowest sales volume and lowest revenue, conduct a deeper review of pricing, product assortment, and in-store placement. Consider targeted discounts, bundling strategies, or replacing underperforming SKUs to improve performance.
+Given that Health & Beauty records both the lowest sales volume and lowest revenue, conduct a deeper review of pricing, product assortment, and in-store placement. Consider targeted discounts and bundling strategies to improve performance.
 
 ### Leverage Gender-Based Purchasing Behavior
 Implement gender-targeted marketing campaigns, such as promoting Fashion Accessories to female customers and Health & Beauty products to male customers. Personalized offers and optimized product placement can increase conversion rates and basket size.
